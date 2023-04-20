@@ -1,6 +1,4 @@
 Telethon==1.25.2
-Flask
-gunicorn
 setuptools
 wheel
 aiohttp
@@ -38,6 +36,8 @@ jikanpy
 lyricsgenius
 markdown
 motor
+flask
+gunicorn
 patool
 Pillow
 prettytable
